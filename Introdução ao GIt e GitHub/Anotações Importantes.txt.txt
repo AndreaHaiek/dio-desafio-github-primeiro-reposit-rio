@@ -23,3 +23,5 @@ Commit --> Retorna para unmodified (já foram feitas as alterações necessária
 Git add* ou git add. --> Adiciona todos os arquivos
 
 Git Commit --> Realiza o commit --> Pegou todos os arquivos e moveu tudo da Staging Area para Local Reposity
+
+Chave SSH --> Forma segura de se conectar com outra máquina 
