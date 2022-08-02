@@ -1,0 +1,25 @@
+Git e Github são tecnologias diferentes;
+
+Git é um sistema de versionamento de código;
+
+Git --> Não possui interface gráfica, é por linha de comando;
+
+Objetos do GIT: Blobs, Trees, Commits
+
+Primeiros Comandos do GIT:
+Git init;
+Git add;
+Git commit.
+
+Obs. Sempre haverá GIT antes do 1.comando
+
+Arquivo Markdown --> uma forma mais humana de se escrever um arquivo HTML
+
+Git Init --> cria um repositório dentro da pasta
+Git Add --> Mudou de unmodified para modified (o git irá comparar o SHA1 dos arquivos)
+Status: Staged --> Aguardando o commit
+Commit --> Retorna para unmodified (já foram feitas as alterações necessárias)      
+
+Git add* ou git add. --> Adiciona todos os arquivos
+
+Git Commit --> Realiza o commit --> Pegou todos os arquivos e moveu tudo da Staging Area para Local Reposity
