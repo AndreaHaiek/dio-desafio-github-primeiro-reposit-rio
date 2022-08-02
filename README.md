@@ -1,5 +1,5 @@
 # DIO - Desafio de Projeto sobre Git/Github 
-### Projeto: Criando meu primeiro repositório de estudos 
+### Criando meu primeiro repositório de estudos 
 
 - #### Cronograma de estudos / aulas
 - #### Conceitos Importantes 
